@@ -1,1 +1,9 @@
-# landing-page
+# Landing Page
+
+Submission for The Odin Project, Project: Landing Project.
+
+Created the skeleton of a landing page using HTML and CSS.
+
+# References
+
+Font: https://www.fontsquirrel.com/fonts/roboto
